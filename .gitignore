@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+itsec_data.db
+dist/
+build/
+*.spec
