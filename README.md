@@ -1,4 +1,4 @@
-# 🛡️ ITSec Sentinel v4.0 – System Security Dashboard
+# 🛡️ ITSec Sentinel v4.0 – Ssystem Security Dashboard
 
 **ITSec Sentinel** to zaawansowane narzędzie do monitorowania parametrów systemowych i wykrywania anomalii w czasie rzeczywistym. Aplikacja łączy w sobie klasyczny monitoring zasobów z algorytmami uczenia maszynowego (ML) w celu identyfikacji podejrzanych zachowań sieciowych i procesowych.
 
